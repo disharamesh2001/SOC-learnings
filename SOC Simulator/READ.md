@@ -23,3 +23,6 @@ This room provided hands-on experience with phishing investigation workflows com
 
 This room helped reinforce the importance of recognizing phishing techniques, validating indicators, and following a systematic investigation process to determine whether an email represents a legitimate threat.
 
+## TryHackMe Badge
+
+- 🏅 [SOC Simulator - 100% True Positive Rate](https://tryhackme.com/Dino67/badges/soc-sim-100-percent-true-positive-rate)
