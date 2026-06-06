@@ -74,28 +74,6 @@ Examined traffic patterns, communication frequency, destination hosts, and proto
 * Effective security monitoring requires both technical analysis and contextual understanding of network behavior.
 * Network traffic serves as a valuable source of evidence during security investigations and incident response activities.
 
-## Topics Covered
-
-### Network Security Essentials
-
-Explored foundational network security concepts, common attack vectors, and defensive monitoring techniques.
-
-### Network Discovery Detection
-
-Learned how attackers identify systems and services within a network and how defenders can detect reconnaissance activities such as scanning and host discovery.
-
-### Data Exfiltration Detection
-
-Investigated techniques used to transfer sensitive data out of a network and learned how to identify indicators of exfiltration attempts.
-
-### Man-in-the-Middle Detection
-
-Examined MITM attack concepts and analyzed indicators that may reveal traffic interception or manipulation.
-
-### IDS Fundamentals
-
-Learned the principles of Intrusion Detection Systems, alert generation, detection methodologies, and their role in security monitoring.
-
 ## References
 
 * TryHackMe – Network Security Essentials
