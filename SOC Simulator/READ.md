@@ -25,7 +25,7 @@ Security Operations Center (SOC) / Threat Detection / Incident Response
 
 Phishing analysis is a core responsibility of SOC analysts. Organizations use phishing investigations to identify malicious emails, protect users from credential theft, and prevent malware infections or unauthorized access to corporate systems.
 
-##Challenges Faced
+## Challenges Faced
 Identifying Legitimate vs Malicious Emails
 
 01. Some emails appeared legitimate at first glance, making it difficult to immediately determine whether they were malicious.
