@@ -46,39 +46,39 @@ Phishing analysis is a critical component of modern SOC operations. Security ana
 
 ## Challenges Faced
 
-### Identifying Sophisticated Phishing Attempts
+### Distinguishing Social Engineering Tactics
 
-Some phishing emails closely resembled legitimate communications, making it difficult to distinguish malicious content from genuine messages.
+Many phishing emails relied on urgency, fear, or impersonation techniques rather than obvious technical indicators, making them difficult to identify immediately.
 
-### Investigating Multiple Indicators
+### Analyzing Email Headers
 
-Each investigation involved numerous artifacts such as sender addresses, domains, URLs, attachments, and email headers.
+Understanding the information contained within email headers and determining which fields were useful for investigation required careful examination.
 
-### Correlating Evidence
+### Investigating Suspicious URLs
 
-Determining whether multiple indicators were related required careful analysis and validation.
+Determining whether a URL was malicious involved analyzing domains, redirections, and other indicators that were not always immediately visible.
 
-### Understanding Email Infrastructure
+### Connecting Multiple Indicators
 
-Analyzing email headers and message routing required familiarity with email protocols and authentication mechanisms.
+A single phishing campaign can involve several artifacts such as sender addresses, domains, links, and attachments. Establishing relationships between these indicators required a methodical approach.
 
 ## How I Overcame Them
 
-### Following a Structured Investigation Process
+### Developing an Investigator Mindset
 
-Approached each investigation systematically by examining sender information, email content, links, attachments, and technical indicators.
+Rather than relying on a single indicator, I evaluated the overall context of each email, including language, sender details, links, and behavioral patterns.
 
-### Validating Indicators Individually
+### Learning Email Anatomy
 
-Analyzed each IOC independently before correlating findings to establish the overall threat context.
+By examining email components and headers, I became more comfortable identifying unusual routing information and potential signs of spoofing.
 
-### Leveraging Threat Intelligence
+### Performing Indicator Validation
 
-Used reputation and intelligence sources to validate suspicious domains, URLs, and email addresses.
+Investigated domains and URLs individually before drawing conclusions, ensuring findings were supported by evidence rather than assumptions.
 
-### Applying Defensive Analysis Techniques
+### Building Investigation Workflows
 
-Focused on identifying behavioral indicators and attack patterns commonly associated with phishing campaigns.
+Followed a repeatable process for analyzing emails and indicators, which improved efficiency and reduced the likelihood of overlooking important details.
 
 ## Key Takeaways
 
