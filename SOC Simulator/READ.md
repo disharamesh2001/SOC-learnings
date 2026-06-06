@@ -27,7 +27,7 @@ Phishing analysis is a core responsibility of SOC analysts. Organizations use ph
 
 ## Challenges Faced
 
-01.Identifying Legitimate vs Malicious Emails
+01. Identifying Legitimate vs Malicious Emails
 Some emails appeared legitimate at first glance, making it difficult to immediately determine whether they were malicious.
 
 How I Overcame It:
