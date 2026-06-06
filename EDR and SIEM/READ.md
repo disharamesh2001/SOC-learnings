@@ -43,10 +43,6 @@ EDR and SIEM solutions form the backbone of modern SOC operations. Security team
 
 ## Challenges Faced
 
-### Understanding the Relationship Between EDR and SIEM
-
-Initially, both technologies appeared to serve similar purposes, making it difficult to understand where one solution ends and the other begins.
-
 ### Interpreting Security Events
 
 Security platforms generate large amounts of event data, and distinguishing meaningful security events from normal activity required careful analysis.
@@ -55,15 +51,7 @@ Security platforms generate large amounts of event data, and distinguishing mean
 
 Alerts often represent only a portion of an investigation. Understanding how individual events fit into a larger security incident required broader context.
 
-### Learning Security Operations Terminology
-
-Concepts such as telemetry, correlation, detections, and indicators required familiarity with SOC workflows and monitoring processes.
-
 ## How I Overcame Them
-
-### Mapping Security Workflows
-
-Focused on understanding how data flows from endpoints into monitoring platforms and how analysts use that information during investigations.
 
 ### Analyzing Events Methodically
 
@@ -72,10 +60,6 @@ Reviewed security events individually before examining how they related to other
 ### Building Context Around Alerts
 
 Learned to treat alerts as starting points for investigations rather than final conclusions, helping develop a more investigative mindset.
-
-### Connecting Concepts to Real-World Operations
-
-Related the technologies and processes to actual SOC responsibilities, making it easier to understand their practical use cases.
 
 ## Key Takeaways
 
