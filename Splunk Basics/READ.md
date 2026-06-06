@@ -51,19 +51,11 @@ Security logs contain numerous fields and attributes, making it challenging to d
 
 Constructing queries that returned meaningful results required understanding Splunk's search syntax and filtering capabilities.
 
-### Identifying Relevant Events
-
-Large datasets often contain significant amounts of normal activity, making it necessary to distinguish important security events from background noise.
-
 ### Interpreting Search Results
 
 Understanding how different events related to each other required careful analysis and contextual awareness.
 
 ## How I Overcame Them
-
-### Exploring Event Fields Systematically
-
-Reviewed event details and field values to better understand how information is organized within Splunk.
 
 ### Practicing Query Refinement
 
