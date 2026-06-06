@@ -19,6 +19,42 @@ This room provided hands-on experience with phishing investigation workflows com
 * Threat investigation
 * SOC analyst workflows
 
+## Domain
+
+Security Operations Center (SOC) / Threat Detection / Incident Response
+
+Phishing analysis is a core responsibility of SOC analysts. Organizations use phishing investigations to identify malicious emails, protect users from credential theft, and prevent malware infections or unauthorized access to corporate systems.
+
+##Challenges Faced
+Identifying Legitimate vs Malicious Emails
+
+01. Some emails appeared legitimate at first glance, making it difficult to immediately determine whether they were malicious.
+
+How I Overcame It:
+
+Examined email content carefully
+Looked for suspicious links and attachments
+Analyzed sender information and email indicators
+Followed a structured investigation process
+Investigating Multiple Indicators
+
+02. Phishing investigations often involve multiple artifacts such as email addresses, domains, URLs, and attachments.
+
+How I Overcame It:
+
+Broke the investigation into smaller steps
+Focused on one indicator at a time
+Correlated findings before reaching conclusions
+Alert Triage and Prioritization
+
+03. Determining which indicators required further investigation was challenging during the initial stages of the exercise.
+
+How I Overcame It:
+
+Applied basic IOC analysis techniques
+Prioritized indicators based on risk
+Followed SOC investigation workflows to validate findings
+
 ## Key Takeaways
 
 This room helped reinforce the importance of recognizing phishing techniques, validating indicators, and following a systematic investigation process to determine whether an email represents a legitimate threat.
