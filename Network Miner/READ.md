@@ -1,56 +1,82 @@
+# NetworkMiner
+
+## Overview
+
+This TryHackMe room introduced NetworkMiner, a Network Forensic Analysis Tool (NFAT) used to analyze packet capture (PCAP) files and extract valuable information from network traffic. The room focused on understanding how network forensic investigations are performed and how evidence can be gathered from captured communications.
+
+## Objectives
+
+* Understand the purpose of NetworkMiner in network forensics
+* Analyze PCAP files using NetworkMiner
+* Investigate hosts, sessions, and network communications
+* Extract artifacts from captured traffic
+* Gain familiarity with forensic analysis workflows
+
 ## Domain
 
-**Security Operations Center (SOC) / Threat Detection / Incident Response**
+**Network Security | Network Forensics | Incident Response**
 
-Phishing analysis is a core responsibility of SOC analysts. Organizations use phishing investigations to identify malicious emails, protect users from credential theft, and prevent malware infections or unauthorized access to corporate systems.
+NetworkMiner is widely used by SOC analysts, incident responders, and forensic investigators to analyze network traffic, investigate security incidents, and gather evidence during cyber investigations.
+
+## Tools Used
+
+* NetworkMiner
+* Packet Capture (PCAP) Files
+* Network Traffic Analysis Techniques
+
+## Skills Developed
+
+* Network Traffic Analysis
+* Packet Capture (PCAP) Investigation
+* Network Forensics
+* Host Identification
+* Session Analysis
+* Artifact Extraction
+* Threat Investigation
+* Incident Response Fundamentals
 
 ## Challenges Faced
 
-### Identifying Legitimate vs Malicious Emails
+### Analyzing Large Volumes of Network Traffic
 
-Some emails appeared legitimate at first glance, making it difficult to immediately determine whether they were malicious.
+PCAP files can contain thousands of packets and multiple communication streams, making it difficult to determine where to begin an investigation.
 
-**How I Overcame It:**
+### Identifying Relevant Information
 
-* Examined email content carefully
-* Looked for suspicious links and attachments
-* Analyzed sender information and email indicators
-* Followed a structured investigation process
+Not all captured traffic is useful during an investigation. Determining which hosts, sessions, or artifacts were relevant required careful analysis.
 
-### Investigating Multiple Indicators
+### Understanding Multiple Data Views
 
-Phishing investigations often involve multiple artifacts such as email addresses, domains, URLs, and attachments.
+NetworkMiner presents information across various tabs such as Hosts, Sessions, Files, Images, and Credentials, which can initially seem overwhelming.
 
-**How I Overcame It:**
+## How I Overcame Them
 
-* Broke the investigation into smaller steps
-* Focused on one indicator at a time
-* Correlated findings before reaching conclusions
+### Structured Investigation Approach
 
-### Alert Triage and Prioritization
+Started by identifying hosts involved in the communication before moving to sessions and extracted artifacts.
 
-Determining which indicators required further investigation was challenging during the initial stages of the exercise.
+### Prioritizing Key Indicators
 
-**How I Overcame It:**
+Focused on suspicious hosts, unusual communications, and extracted files to narrow the investigation scope.
 
-* Applied basic IOC analysis techniques
-* Prioritized indicators based on risk
-* Followed SOC investigation workflows to validate findings
+### Correlating Multiple Sources of Evidence
 
-## Real-World Applications
+Cross-referenced information from different NetworkMiner tabs to build a complete understanding of network activity.
 
-The skills learned in this room can be applied to:
+## Key Takeaways
 
-* SOC Analyst Operations
-* Security Monitoring
-* Incident Response
-* Threat Hunting
-* Email Security Analysis
-* Security Investigations
+* Network traffic can serve as valuable forensic evidence during investigations.
+* PCAP analysis helps identify suspicious communications and potential security incidents.
+* NetworkMiner simplifies investigations by automatically extracting useful artifacts from captured traffic.
+* Following a structured investigation process improves efficiency and accuracy during forensic analysis.
+* Network forensics plays an important role in incident response, threat hunting, and security monitoring activities.
 
-## Lessons Learned
+## References
 
-* Phishing attacks often contain subtle indicators that can be easily overlooked.
-* A structured investigation process helps reduce false positives.
-* Validating indicators before escalating an incident is essential in SOC operations.
-* Email analysis plays a critical role in defending organizations against social engineering attacks.
+* TryHackMe – NetworkMiner Room
+* NetworkMiner Documentation
+* Network Forensic Analysis Concepts
+
+## TryHackMe Profile
+
+https://tryhackme.com/p/Dino67
