@@ -62,6 +62,9 @@ This room helped reinforce the importance of recognizing phishing techniques, va
 ## TryHackMe Badge
 
 - 🏅 [SOC Simulator - 100% True Positive Rate](https://tryhackme.com/Dino67/badges/soc-sim-100-percent-true-positive-rate)
+- [https://tryhackme.com/Dino67/badges/soc-sim-100-percent-true-positive-rate](https://tryhackme.com/Dino67/badges/soc-sim-first-alert-closed?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=677e1713ffc74c1de7c63c04)
+- 🏅 [SOC Simulator - 100% True Positive Rate](https://tryhackme.com/Dino67/badges/soc-sim-100-percent-true-positive-rate)
+
 
 ## TryHackMe Profile
 - https://tryhackme.com/p/Dino67
