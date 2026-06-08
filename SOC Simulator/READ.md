@@ -59,12 +59,25 @@ Followed SOC investigation workflows to validate findings
 
 This room helped reinforce the importance of recognizing phishing techniques, validating indicators, and following a systematic investigation process to determine whether an email represents a legitimate threat.
 
-## TryHackMe Badge
+## TryHackMe Achievements
 
-- 🏅 [SOC Simulator - 100% True Positive Rate](https://tryhackme.com/Dino67/badges/soc-sim-100-percent-true-positive-rate)
-- [https://tryhackme.com/Dino67/badges/soc-sim-100-percent-true-positive-rate](https://tryhackme.com/Dino67/badges/soc-sim-first-alert-closed?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=677e1713ffc74c1de7c63c04)
-- 🏅 [SOC Simulator - 100% True Positive Rate](https://tryhackme.com/Dino67/badges/soc-sim-100-percent-true-positive-rate)
+🏅 [SOC Simulator – First Alert Closed](https://tryhackme.com/Dino67/badges/soc-sim-first-alert-closed)
 
+🏅 [SOC Simulator – First Scenario Completed](https://tryhackme.com/Dino67/badges/soc-sim-first-scenario-completed)
+
+🏅 [Defensive Toolsmith](https://tryhackme.com/Dino67/badges/defensive-toolsmith)
+
+🏅 [SOC Simulator – 100% True Positive Rate](https://tryhackme.com/Dino67/badges/soc-sim-100-percent-true-positive-rate)
+
+### What These Achievements Demonstrate
+
+- Alert investigation and triage workflows
+- Incident analysis and decision-making
+- Detection accuracy and validation
+- Practical SOC analyst methodologies
+- Familiarity with defensive security tooling
+- Hands-on experience with simulated security incidents
 
 ## TryHackMe Profile
-- https://tryhackme.com/p/Dino67
+
+[Dino67](https://tryhackme.com/p/Dino67)
